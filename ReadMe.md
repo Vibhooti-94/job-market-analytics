@@ -48,7 +48,7 @@ The dataset includes:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Image pdf/Screenshot-Job Market analytics.png)
+![Dashboard](Image_pdf/Dashboard.png)
 
 ---
 
